@@ -16,3 +16,10 @@ p {
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
